@@ -4,6 +4,8 @@
 ##### CSE110 Lab0&1
 
 ---
+![](myimage.png)
+
 **Archive menu**
 
 - [Introduction](#introduction)
